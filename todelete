@@ -1,0 +1,1 @@
+xpath=//*[@text and ./parent::*[(./preceding-sibling::* | ./following-sibling::*)[@text] and (./preceding-sibling::* | ./following-sibling::*)[@width>0]]]
